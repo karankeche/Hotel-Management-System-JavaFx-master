@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "/Users/karankeche/Downloads/Hotel-Management-System-JavaFx-master/lib/itextpdf-5.3.4.jar",
+        "/Users/karankeche/Downloads/Hotel-Management-System-JavaFx-master/lib/mysql-connector-java-8.0.26.jar",
+        "/Users/karankeche/Downloads/Hotel-Management-System-JavaFx-master/lib/fontawesomefx-8.9.jar",
+        "/Users/karankeche/Downloads/Hotel-Management-System-JavaFx-master/lib/jfoenix-8.0.10.jar"
+    ]
+}
